@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Portal</title>
+	</head>
+	<body>
+		<a href="/portal/view/money">Money Management</a>
+		<a href="/portal/view/weight">Weight Management</a>
+	</body>
+</html>
